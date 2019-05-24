@@ -1,3 +1,24 @@
+This is the second in our series of tutorials that are meant for the novice developer as Angular 7 tutorials for beginners. For advanced Angular 7 developers stuck with a development issue in a project this could come in handy especially if you are tasked with providing security for an existing web application.
+
+This implements ANGULAR 7 VALIDATION AND AUTHORIZATION using industry standard JWT tokens.
+
+The code uses Angular Material Design to build a login form with
+-A regular username text field
+-A password field with masked characters
+
+Among Angular Material components is mat-icons used in fields, Angular Material Buttons showing you how to make them enabled or disabled based on form validation status.
+
+We'll show how how to user the Angular guard to protect pages and restrict them to authorized users only.
+
+Tutorials in the series availabe in YouTube:
+
+1. Installing Angular 7, Angular Material Design : https://youtu.be/sKe-sA7ypFI
+2. Angular JWT Authentication https://youtu.be/re0JHmK5_OM
+
+Thank you and welcome.
+
+For a blog on this tutorial please visit us at http://pmkent.com/index.php/angular-authentication-with-jwt/
+
 # User
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
